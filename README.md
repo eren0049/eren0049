@@ -1,3 +1,6 @@
+</br>
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=eren0049.eren0049">
+</br>
 <h1 align="center">
  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=4C9D14&center=true&vCenter=true&multiline=true&random=false&width=435&height=90&lines=Hello%2C+There!;I+am+Eren" alt="Typing SVG" /></a>
 </h1>
