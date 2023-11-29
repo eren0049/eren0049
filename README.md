@@ -8,6 +8,10 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=eren0049&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide=issues"/>
    
   ![Snake animation](https://github.com/eren0049/eagrundy/blob/output/github-contribution-grid-snake.svg)
+
+  <img align="center" height="192" src="images/github_snake.svg"/>
+  
+  
 </div>
  
  ## Skills
