@@ -2,7 +2,6 @@
  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=4C9D14&center=true&vCenter=true&multiline=true&random=false&width=435&height=90&lines=Hello%2C+There!;I+am+Eren" alt="Typing SVG" /></a>
 </h1>
 
-
  <div>
   <a href="https://github.com/eren0049">
    <img align="center" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eren0049&layout=compact&langs_count=16&theme=dracula"/>
