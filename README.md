@@ -38,11 +38,7 @@
 ## Contact 
 <div> 
   <a href="https://www.linkedin.com/in/eren-baysal-7957ba226/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- </br>
-</br>
- 
-  
- 
+ </br></br></br></br></br>
 </div>
 
 <!-- <img align="right" height="180em" alt="Erica-yoda" src="https://media.giphy.com/media/l44Qqz6gO6JiVV3pu/giphy.gif"> -->
